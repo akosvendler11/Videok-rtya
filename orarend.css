@@ -3,7 +3,3 @@ table, th, td {
     border-collapse: collapse;
   }
 
-button {
-  border: 2px red;
-  background-color: pink;
-}  
